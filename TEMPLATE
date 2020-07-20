@@ -1,0 +1,16 @@
+/*
+* Program Name: Hello World
+* Purpose:
+* Coder: Dianne Corpuz 955976
+* Date:
+*/
+
+public class HelloWorld
+{
+	public static void main{String[]args)
+	{
+		System.out.println("Hello World!, I'm dianne!");
+	
+	}//end main
+	
+}//END OF CLASS

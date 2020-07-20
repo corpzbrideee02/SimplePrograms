@@ -1,0 +1,14 @@
+public class GreatEscape
+{
+	public static void main(String[]args)
+	{
+		
+		
+		
+		System.out.println("Hello World! I'm dianne!");
+		System.out.println("My hometown is Philippines");
+		System.out.println("I went to Highschool at PGMNHS");
+	
+	}//end main
+	
+}//END OF CLASS
